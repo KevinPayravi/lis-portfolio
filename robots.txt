@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://lis.kevinpayravi.com/sitemap.xml
+Disallow: /
