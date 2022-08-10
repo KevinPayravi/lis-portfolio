@@ -3,12 +3,28 @@
     <title>Kevin Payravi&#x27;s LIS Portfolio</title>
     <link href="https://lis.kevinpayravi.com/feed.xml" rel="self" />
     <link href="https://lis.kevinpayravi.com" />
-    <updated>2022-08-10T02:36:50-05:00</updated>
+    <updated>2022-08-10T02:41:23-05:00</updated>
     <author>
         <name>Kevin Payravi</name>
     </author>
     <id>https://lis.kevinpayravi.com</id>
 
+    <entry>
+        <title>Resume</title>
+        <author>
+            <name>Kevin Payravi</name>
+        </author>
+        <link href="https://lis.kevinpayravi.com/resume/"/>
+        <id>https://lis.kevinpayravi.com/resume/</id>
+
+        <updated>2022-08-10T02:41:23-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://drive.google.com/file/d/1njsRs5vdw4vZUIFouxFt29ePJYN3K4yn/preview" allow="autoplay"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contact Me</title>
         <author>
