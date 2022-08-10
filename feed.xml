@@ -3,12 +3,34 @@
     <title>Kevin Payravi&#x27;s LIS Portfolio</title>
     <link href="https://lis.kevinpayravi.com/feed.xml" rel="self" />
     <link href="https://lis.kevinpayravi.com" />
-    <updated>2022-08-09T02:35:55-05:00</updated>
+    <updated>2022-08-10T02:36:50-05:00</updated>
     <author>
         <name>Kevin Payravi</name>
     </author>
     <id>https://lis.kevinpayravi.com</id>
 
+    <entry>
+        <title>Contact Me</title>
+        <author>
+            <name>Kevin Payravi</name>
+        </author>
+        <link href="https://lis.kevinpayravi.com/contact-me/"/>
+        <id>https://lis.kevinpayravi.com/contact-me/</id>
+
+        <updated>2022-08-10T02:33:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                    If you'd like to chat, don't hesitate to reach out! Email Me Tweet at Me
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">If you'd like to chat, don't hesitate to reach out!</p>
+<p class="align-center"><a href="mailto:kevinpayravi@gmail.com" target="_blank" rel="noopener noreferrer"></a><a href="mailto:kevinpayravi@gmail.com" target="_blank" rel="noopener noreferrer">Email Me</a></p>
+<p class="align-center"><a href="https://twitter.com/KevinPayravi" target="_blank" rel="noopener noreferrer">Tweet at Me</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About Me</title>
         <author>
@@ -17,10 +39,10 @@
         <link href="https://lis.kevinpayravi.com/about-kevin-payravi/"/>
         <id>https://lis.kevinpayravi.com/about-kevin-payravi/</id>
 
-        <updated>2022-08-09T02:35:55-05:00</updated>
+        <updated>2022-08-10T02:36:50-05:00</updated>
             <summary>
                 <![CDATA[
-                    Hi there! I'm a recent MLIS graduate from Kent State This is my Library and Information Science portfolio, created as&hellip;
+                    Hi there! I'm Kevin, a recent MLIS graduate. I graduated from Kent State University's Master's in Library and Information Science&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -31,18 +53,22 @@
       
     </figure>
 
-    <h2 id="hi-there-im-a-recent-mlis-graduate-from-kent-state">
-      Hi there! I'm a recent MLIS graduate from Kent State
+    <h2 id="hi-there-im-kevin-a-recent-mlis-graduate">
+      Hi there! I'm Kevin, a recent MLIS graduate.
     </h2>
 
   <p>
-    This is my Library and Information Science portfolio, created as part of my LIS60280 Master's Portfolio to highlight my accomplishments throughout my studies.
+    I graduated from Kent State University's Master's in Library and Information Science program in August 2022. This is my portfolio, created as part of my LIS60280 Master's Portfolio to highlight my accomplishments throughout my studies.
+  </p>
+
+  <p>
+    I was born and raised in Northeast Ohio, and currently work as a software engineer.&nbsp;In addition to my job, I'm passionate about open source and accessibility to free knowledge. I've been an avid Wikipedia editor for over 10 years, and have since branched out to contribute to a variety of other wikis and free information projects. This includes deciding to pursue my MLIS, to prepare myself to work in the intersection of technology and librarianship.
   </p>
 <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/yhN3H4nQb-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 
   <p>
-    
+    If you'd like to talk, feel free to <a href="https://lis.kevinpayravi.com/contact-me/">reach out to me</a>!
   </p>
             ]]>
         </content>
